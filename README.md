@@ -1,5 +1,6 @@
 # DaisyWorld with greenhouse effect
 
+[![View DaisyWorld with greenhouse effect on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/113635-daisyworld-with-greenhouse-effect)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6667688.svg)](https://doi.org/10.5281/zenodo.6667688)
 
 Matlab implementation of Daisyworld with greenhouse effects
@@ -7,7 +8,9 @@ Matlab implementation of Daisyworld with greenhouse effects
 
 ## Description
 
-Daisyworld is a simplified model that describes the feedback mechanism between the life and environment of a planet. Daisyworld is a planet populated by two types of flowers: black daisies and white daisies (see Figure 1). The colour of the daisies modifies the albedo of the planet and, therefore, its temperature. In return, the growth rate of the daisies is affected by the change of planetary temperature. The change in global temperature is also affected by the greenhouse effect, which can trigger a perturbation of the feedback mechanism. THe present example shows how different parameters can affect the growth of the black and white daisies populating Daisyworld.Note that the greenhouse effect is not included in the original Daisyworld model, but it is relevant here to mimic a climate change event. The main source of inspirations for this example are the study by [1] and the review paper by [2]
+Daisyworld is a simplified model that describes the feedback mechanism between the life and environment of a planet. Daisyworld is a planet populated by two types of flowers: black daisies and white daisies (see Figure 1). The colour of the daisies modifies the albedo of the planet and, therefore, its temperature. In return, the growth rate of the daisies is affected by the change of planetary temperature. The change in global temperature is also affected by the greenhouse effect, which can trigger a perturbation of the feedback mechanism. THe present example shows how different parameters can affect the growth of the black and white daisies populating Daisyworld.Note that the greenhouse effect is not included in the original Daisyworld model, but it is relevant here to mimic a climate change event. 
+
+The sources of inspirations for this example are the study by [1] and the review paper by [2]. However, the implementation of the method is done from scratch. Therefore, the present implementation of Daisyworld may differ significantly from [1,2]. This is the first version of the submission. Some bugs may still be present. If you have any comment or question, please ask!
 
 
 ## References
