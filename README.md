@@ -1,4 +1,4 @@
-# DaisyWorld
+# DaisyWorld with greenhouse effect
 
 Matlab implementation of Daisyworld with greenhouse effects
 
