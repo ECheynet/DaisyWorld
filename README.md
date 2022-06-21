@@ -11,7 +11,7 @@ Daisyworld is a simplified model that describes the feedback mechanism between t
 
 The sources of inspiration for this example are the study by [1] and the review paper by [2]. However, the implementation of the method is done from scratch. Therefore, the present implementation of Daisyworld may differ significantly from [1,2]. This is the first version of the submission. Some bugs may still be present. If you have any comments or question, please ask!
 
-![Illustration](illus.png)
+<img src="illus.png" width="500">
 
 ## Content
 The repository contains:
